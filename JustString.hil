@@ -1,0 +1,10 @@
+VERSION=1.4
+10,0,0,0,1,0,(["'])[^\1]*(?:\1\1[^\1]*)*\1
+Quotation=
+Canceler=
+Commenter=#
+CommenterRegExp=0
+CommenterCase=0
+CommenterWord=0
+CommenterFuzz=0
+BracketCount=0
